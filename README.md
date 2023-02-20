@@ -1,7 +1,7 @@
 # Rubic-cube-Mathematica-contest-2013
 Contest for the best student's Mathematica project on WFAIS UJ in 2013. 1st place. Made in Wolfram Mathematica. Done together with my colleague Dariusz Kotas.
 
-Notebook reads Rubic's cube faces from photos imported from files, from a computer's webcam or generates one randomly, than solves it creating a list of moves needed and visualization.
+Notebook reads Rubic's cube faces from photos imported from files, from a computer's webcam or generates one randomly, than solves it creating a list of moves needed and visualization. In "Przykladowe zdjecia" folder there are photos that can be used as samples for the image recognition part.
 
 Solving algorythm is taken from a book "Magiczna kostka" by Wolfgang Hintze. It is highly inefficient but is easy to remember, using only a few basic sets of moves.
 
